@@ -1,12 +1,10 @@
 const CONFIG = {
     introTitle: 'Babe ahhh!',
     introDesc: `Trái đất đầy rẫy tai nạn
-    Mà ngã vào tim anh là tai nạn tuyệt vời nhất
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà ngã vào tim anh là tai nạn tuyệt vời nhất`,
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã say  ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười của emm ',
+    desc: ' ',
     btnYes: 'Vẫn cứ là thích bé <33',
     btnNo: 'Không, bé  à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại chọn yêu bé:<',
